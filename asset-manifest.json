@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ddf52f30.css",
+    "main.js": "/portfolio/static/js/main.bb7728c6.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/run_mapper_mobile.png": "/portfolio/static/media/run_mapper_mobile.cb99999a2b0bbb1ec952.png",
+    "static/media/run_mapper.png": "/portfolio/static/media/run_mapper.4f19d46c50d54a3dcd4c.png",
+    "static/media/golf_sim.png": "/portfolio/static/media/golf_sim.60b9fb4c42e8ac896f1c.png",
+    "static/media/map_gen.png": "/portfolio/static/media/map_gen.3f7690349efb6c3507fa.png",
+    "static/media/cars.png": "/portfolio/static/media/cars.97211e688bf66007164a.png",
+    "static/media/zen_ascent.png": "/portfolio/static/media/zen_ascent.462384834496917bcca7.png",
+    "static/media/blocks.png": "/portfolio/static/media/blocks.d8f1e2781783230d9d3d.png",
+    "static/media/cardlocke.png": "/portfolio/static/media/cardlocke.f3d88b54b8c472dcd024.png",
+    "static/media/pace_calc.png": "/portfolio/static/media/pace_calc.5f976303478bdc839289.png",
+    "static/media/bunny.jpg": "/portfolio/static/media/bunny.a46bbd91e12d6bec3332.jpg",
+    "static/media/solar_system.png": "/portfolio/static/media/solar_system.300fdb046304891df70d.png",
+    "index.html": "/portfolio/index.html",
+    "main.ddf52f30.css.map": "/portfolio/static/css/main.ddf52f30.css.map",
+    "main.bb7728c6.js.map": "/portfolio/static/js/main.bb7728c6.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddf52f30.css",
+    "static/js/main.bb7728c6.js"
+  ]
+}
