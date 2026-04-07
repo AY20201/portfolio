@@ -207,8 +207,6 @@ export default function Homepage(){
                     </p>}
                     gitUrl={"https://github.com/AY20201/explorun"}
                 />
-            </div>
-            <div className={styles.contentRow}>
                 <ProjectItem imgSource={dsocial} imgAlt={"DSocial"} title={"DSocial"} description={
                     <p className={styles.descriptionText}>
                     Development timeframe: December 2025 - January 2026<br/>
@@ -222,6 +220,7 @@ export default function Homepage(){
                     gitUrl={"https://github.com/AY20201/college-app"}
                 />
             </div>
+            
             <div style={{marginBottom: '100px'}}></div>
         </div>
     )
